@@ -1,0 +1,17 @@
+Favorite Quote (recently):
+We judge our opponents on their worst actions and ourselves on our best intentions
+- George W Bush (quoted from someone else)
+
+Preferred tech stack:
+Backend:
+1. .Net/C# (I love it)
+2. Java (I am competent at it and can do it)
+3. Node.js or Python (willing to learn)
+
+Frontend:
+1. Angular (want to learn)
+2. React (have experience)
+3. ASP.Net MVC (i.e HTML/CSS/JS) (have experience but not really preferred, nor do I think this would provide much value in the current market)
+
+Database/Datasource:
+1. SQL RDBMS (strongest with PostgreSQL but competent with most SQL including MySQL and SQL Server)
